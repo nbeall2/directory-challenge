@@ -24,7 +24,7 @@
 
 ## Testing
 
-The program includes a set of unit tests located in `test_main.py`. You can run these tests to ensure the functionality works as expected.
+The program includes a set of unit tests using pytest located in `test_main.py`. You can run these tests to ensure the functionality works as expected.
 
 ## Requirements
 
